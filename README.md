@@ -71,7 +71,7 @@ rarity = price / max
 A <a href="https://en.wikipedia.org/wiki/Unix_timestamp">unix timestamp</a> is asigned every 24 hours when the `shop` command is called
 it will test if its been 24 hours since the last call, if so it will make a random selection for the next shop rotate.
 
-// Example preset item
+<h3>Example preset item</h3>
 ```json
 {
       "name": ":hotdog: Glizzy",

@@ -37,9 +37,26 @@ THIS PROJECT IS IN DEVELOPMENT
 [SYNTAX]Gamble
 ```
 
-## How and why
-<span>As time goes by trends come and go so do stock trends, its our goal to make a system to predict trends in crypto currency data</span>
-<span>Our system is actively improved all code is private however if you want to use our service make sure to email me for me details</span>
+## How to add items
+Within "Data\EcoData.json" add or remove the following.
+```json
+// Example how to setup
+{
+      "name": "ItemName",     //  STRING type  : This will disply as the items name.
+      "genre": "ItemGenre",   //  STRING type  : This will organise the items within the backpack.
+      "stock": 10,            //  INT type     : This is how many can be bought per day.
+      "min": 2,               //  INT type     : This is the minimum price it can be. (per day the price will be randomised between the min and max and a rarity will be given to the item)
+      "max": 5                //  INT type     : This is the maximum price it can be.
+},
+// Example preset item
+{
+      "name": ":hotdog: Glizzy",
+      "genre": "Food",
+      "stock": 10,
+      "min": 5,
+      "max": 7
+},
+```
 
 ## Contributors
 * [ZenoEchozZ](https://github.com/NotReeceHarris) 

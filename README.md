@@ -45,8 +45,8 @@ Within "Data\EcoData.json" add or remove the following.
       "name": "ItemName",     //  STRING type  : This will disply as the items name.
       "genre": "ItemGenre",   //  STRING type  : This will organise the items within the backpack.
       "stock": 10,            //  INT type     : This is how many can be bought per day.
-      "min": 2,               //  INT type     : This is the minimum price it can be. (randomised between the min and max and a rarity will be given to the item)
-      "max": 5                //  INT type     : This is the maximum price it can be.
+      "min": 2,               //  INT type     : This is the minimum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
+      "max": 5                //  INT type     : This is the maximum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
 },
 // Example preset item
 {

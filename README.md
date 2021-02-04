@@ -1,7 +1,7 @@
 
 <p align=center>
 
-  <img src="https://i.imgur.com/evA6BWS.png" alt="CryptoniteData v2.0.0" />
+  <img src="https://i.imgur.com/0Eqx8wH.png" alt="EconomyDiscord Bot" />
 
   <br>
   <br>

@@ -26,6 +26,16 @@ THIS PROJECT IS IN DEVELOPMENT
 ```
 
 ## Features
+* Item rarity
+* shop
+* advanced item prices
+* backpack
+* stats
+* money
+* jobs
+* activity counter
+
+## Commands
 ```console
 [SYNTAX]Shop
 [SYNTAX]Job

@@ -80,8 +80,3 @@ rarity = price / max
 
 ## Contributors
 * [ZenoEchozZ](https://github.com/NotReeceHarris) 
-
-## License
-
-MIT © CryptoniteData<br/>
-Original Creator - [Reece Harris](https://github.com/NotReeceHarris)

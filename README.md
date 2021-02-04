@@ -80,7 +80,7 @@ it will test if its been 24 hours since the last call, if so it will make a rand
       "stock": 10,
       "min": 5,
       "max": 7
-},
+}
 ```
 
 ## Contributors

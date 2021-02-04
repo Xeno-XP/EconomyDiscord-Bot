@@ -9,8 +9,8 @@
   and predictions with our easy-to-use tools such as akc (Api key chain), <br>
   lex (Prediction module), and much more.<br></span>
   <br>
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-green.svg"></a>
-  <a target="_blank" href="https://github.com/Rapptz/discord.py" title="Python version"><img src="https://img.shields.io/badge/discord.py-=1.6.0-blue.svg"></a>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-3-green.svg"></a>
+  <a target="_blank" href="https://github.com/Rapptz/discord.py" title="Python version"><img src="https://img.shields.io/badge/discord.py-1.6.0-blue.svg"></a>
 </p>
 
 <p align="center">

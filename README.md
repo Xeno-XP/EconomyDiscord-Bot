@@ -58,7 +58,7 @@ Within "Data\EcoData.json" add or remove the following.
       "stock": 10,            //  INT type     : This is how many can be bought per day.
       "min": 2,               //  INT type     : This is the minimum price it can be.
       "max": 5                //  INT type     : This is the maximum price it can be.
-},
+}
 ```
 <h3>Why isnt there 1 price set?</h3>
 The price is randomised between the min and max per day and a rarity will be assigned to the item.

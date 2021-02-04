@@ -22,20 +22,20 @@ rob, and much more there is also a leveling system all at your controll<br></spa
 
 ## Update
 ```console
-THIS PROJECT IS PRIVATISED, SOURCE CODE AVALIBLE @ reece.harris98@protonmail.com
+THIS PROJECT IS IN DEVELOPMENT
 ```
 
 ## Features
-* <strong>AKC</strong> - The intergrated api-key-chain.
-* <strong>LEX</strong> - Smart prediction algorithm. (Yes a lex luther refrence)
-* <strong>UDS</strong> - Up-To date stats.
-
-* <strong>WEB</strong> - A web based display.
-* <strong>GUI</strong> - A graphical application.
-* <strong>TXT</strong> - Terminal based stats.
-
-* <strong>MSG</strong> - Instantly get a message when something is detected.
-* <strong>WHK</strong> - Use webhooks to display your data.
+```console
+[SYNTAX]Shop
+[SYNTAX]Job
+[SYNTAX]Rob
+[SYNTAX]Stats
+[SYNTAX]Bal
+[SYNTAX]Backpack
+[SYNTAX]Buy
+[SYNTAX]Gamble
+```
 
 ## How and why
 <span>As time goes by trends come and go so do stock trends, its our goal to make a system to predict trends in crypto currency data</span>

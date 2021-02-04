@@ -51,6 +51,7 @@ Within "Data\EcoData.json" add or remove the following.
 ```
 <h3>Why isnt there 1 price set?</h3>
 The price is randomised between the min and max per day and a rarity will be assigned to the item.
+
 ```python
 price = random.randint(min, max)
 rarity = price / max

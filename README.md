@@ -39,15 +39,22 @@ THIS PROJECT IS IN DEVELOPMENT
 
 ## How to add items
 Within "Data\EcoData.json" add or remove the following.
-
+```console
 // Example how to setup
 {
       "name": "ItemName",     //  STRING type  : This will disply as the items name.
       "genre": "ItemGenre",   //  STRING type  : This will organise the items within the backpack.
       "stock": 10,            //  INT type     : This is how many can be bought per day.
-      "min": 2,               //  INT type     : This is the minimum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
-      "max": 5                //  INT type     : This is the maximum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
+      "min": 2,               //  INT type     : This is the minimum price it can be.
+      "max": 5                //  INT type     : This is the maximum price it can be.
 },
+```
+<h3>Why isnt there 1 price set?</h3>
+The price is randomised between the min and max per day and a rarity will be assigned to the item.
+```python
+price = random.randint(min, max)
+rarity = price / max
+```
 
 // Example preset item
 ```json

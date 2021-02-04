@@ -6,7 +6,7 @@
   <br>
   <br>
   <span>Advanced economy system for discord servers, shops, jobs<br>
-rob, and much more there is also a leveling system all at your controll</span>
+rob, and much more there is also a leveling system all at your controll<br></span>
   <br>
   <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-3.7|3.8|3.9-green.svg"></a>
   <a target="_blank" href="https://github.com/Rapptz/discord.py" title="Python version"><img src="https://img.shields.io/badge/discord.py-1.6.0-blue.svg"></a>

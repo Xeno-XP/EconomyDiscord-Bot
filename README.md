@@ -35,6 +35,8 @@ THIS PROJECT IS IN DEVELOPMENT
 * jobs
 * activity counter
 * custome syntax
+* jail system
+* jail time
 
 ## Commands
 ```console

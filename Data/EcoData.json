@@ -1,0 +1,376 @@
+{
+    "shopItems": [
+        {
+            "name": ":doughnut: Doughnut",
+            "genre": "Food",
+            "stock": 10,
+            "min": 10,
+            "max": 20
+        },
+        {
+            "name": ":apple: Apple",
+            "genre": "Food",
+            "stock": 10,
+            "min": 1,
+            "max": 5
+        },
+        {
+            "name": ":melon: Water melon",
+            "genre": "Food",
+            "stock": 10,
+            "min": 2,
+            "max": 5
+        },
+        {
+            "name": ":hotdog: Glizzy",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 7
+        },
+        {
+            "name": ":cheese: Cheese",
+            "genre": "Food",
+            "stock": 10,
+            "min": 15,
+            "max": 30
+        },
+        {
+            "name": ":hamburger: Burger",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 15
+        },
+        {
+            "name": ":pizza: Pizza",
+            "genre": "Food",
+            "stock": 10,
+            "min": 6,
+            "max": 16
+        },
+        {
+            "name": ":sandwich: Sandwich",
+            "genre": "Food",
+            "stock": 10,
+            "min": 2,
+            "max": 10
+        },
+        {
+            "name": ":cake: Cake",
+            "genre": "Food",
+            "stock": 10,
+            "min": 20,
+            "max": 35
+        },
+        {
+            "name": ":curry: Curry",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 15
+        },
+        {
+            "name": ":carrot: Carrot",
+            "genre": "Food",
+            "stock": 10,
+            "min": 2,
+            "max": 7
+        },
+        {
+            "name": ":bacon: Bacon",
+            "genre": "Food",
+            "stock": 10,
+            "min": 1,
+            "max": 6
+        },
+        {
+            "name": ":ice_cream: Ice Cream",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 10
+        },
+        {
+            "name": ":cut_of_meat: Steak",
+            "genre": "Food",
+            "stock": 10,
+            "min": 10,
+            "max": 25
+        },
+        {
+            "name": ":pancakes: Pancake",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 17
+        },
+        {
+            "name": ":poultry_leg: Chicken",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 15
+        },
+        {
+            "name": ":tangerine: Orange", 
+            "genre": "Food",
+            "stock": 10,
+            "min": 1,
+            "max": 6
+        },
+        {
+            "name": ":fries: Fries",
+            "genre": "Food",
+            "stock": 10,
+            "min": 2,
+            "max": 7
+        },
+        {
+            "name": ":cupcake: Cupcake",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 10
+        },
+        {
+            "name": ":popcorn: Popcorn",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 15
+        },
+        {
+            "name": ":salad: Salad",
+            "genre": "Food",
+            "stock": 10,
+            "min": 3,
+            "max": 9
+        },
+        {
+            "name": ":coffee: Coffee",
+            "genre": "Food",
+            "stock": 10,
+            "min": 5,
+            "max": 10
+        },
+        {
+            "name": ":cherries: Cherry",
+            "genre": "Food",
+            "stock": 10,
+            "min": 1,
+            "max": 6
+        },
+        {
+            "name": ":tea: Tea",
+            "genre": "Food",
+            "stock": 10,
+            "min": 2,
+            "max": 7
+        },
+        {
+            "name": ":beer: Beer",
+            "genre": "Food",
+            "stock": 10,
+            "min": 3,
+            "max": 9
+        },
+        {
+            "name": ":cup_with_straw: Water",
+            "genre": "Food",
+            "stock": 10,
+            "min": 1,
+            "max": 6
+        },
+        {
+            "name": ":mobile_phone: Mobile Phone",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 100,
+            "max": 1000
+        },
+        {
+            "name": ":computer: Laptop",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 250,
+            "max": 1500
+        },
+        {
+            "name": ":desktop: Computer",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 500,
+            "max": 5000
+        },
+        {
+            "name": ":printer: Printer",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 50,
+            "max": 250
+        },
+        {
+            "name": ":microphone2: Microphone",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 60,
+            "max": 250
+        },
+        {
+            "name": ":camera: Camera",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 150,
+            "max": 1000
+        },
+        {
+            "name": ":video_game: Controller",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 50,
+            "max": 100
+        },
+        {
+            "name": ":headphones: Headphones",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 10,
+            "max": 500
+        },
+        {
+            "name": ":tv: Tv",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 250,
+            "max": 1000
+        },
+        {
+            "name": ":radio: Radio",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 10,
+            "max": 40
+        },
+        {
+            "name": ":mouse_three_button: Mouse",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 10,
+            "max": 120
+        },
+        {
+            "name": ":keyboard: Keyboard",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 15,
+            "max": 250
+        },
+        {
+            "name": ":flashlight: Flashlight",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 10,
+            "max": 45
+        },
+        {
+            "name": ":watch: Smart Watch",
+            "genre": "Electronic",
+            "stock": 10,
+            "min": 150,
+            "max": 500
+        },
+        {
+            "name": ":soccer: Football",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 5,
+            "max": 50
+        },
+        {
+            "name": ":basketball: Basketball",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 5,
+            "max": 50
+        },
+        {
+            "name": ":baseball: Baseball",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 5,
+            "max": 10
+        },
+        {
+            "name": ":tennis: Tennis ball",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 5,
+            "max": 10
+        },
+        {
+            "name": ":volleyball: Volleyball",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 15,
+            "max": 25
+        },
+        {
+            "name": ":rugby_football: Rugy Ball",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 15,
+            "max": 25
+        },
+        {
+            "name": ":flying_disc: Frisby",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 5,
+            "max": 25
+        },
+        {
+            "name": ":boxing_glove: Boxing Glove",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 10,
+            "max": 25
+        },
+        {
+            "name": ":kite: Kite",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 10,
+            "max": 250
+        },
+        {
+            "name": ":skateboard: Skateboard",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 10,
+            "max": 200
+        },
+        {
+            "name": ":ice_skate: Ice Skate",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 10,
+            "max": 100
+        },
+        {
+            "name": ":sled: Sled",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 25,
+            "max": 120
+        },
+        {
+            "name": ":boomerang: Boomerang",
+            "genre": "Leisure",
+            "stock": 10,
+            "min": 15,
+            "max": 50
+        }
+    ]
+
+}

@@ -34,6 +34,7 @@ THIS PROJECT IS IN DEVELOPMENT
 * money
 * jobs
 * activity counter
+* custome syntax
 
 ## Commands
 ```console

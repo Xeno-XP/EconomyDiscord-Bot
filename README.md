@@ -67,6 +67,9 @@ The price is randomised between the min and max per day and a rarity will be ass
 price = random.randint(min, max)
 rarity = price / max
 ```
+<h3>How does it reset every 24 hours</h3>
+A [unix timestamp](https://en.wikipedia.org/wiki/Unix_timestamp) is asigned every 24 hours when the `shop` command is called
+it will test if its been 24 hours since the last call if so it will make a random selection for the nect shop rotate.
 
 // Example preset item
 ```json

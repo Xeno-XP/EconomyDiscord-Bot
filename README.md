@@ -39,7 +39,7 @@ THIS PROJECT IS IN DEVELOPMENT
 
 ## How to add items
 Within "Data\EcoData.json" add or remove the following.
-```console
+
 // Example how to setup
 {
       "name": "ItemName",     //  STRING type  : This will disply as the items name.
@@ -48,7 +48,7 @@ Within "Data\EcoData.json" add or remove the following.
       "min": 2,               //  INT type     : This is the minimum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
       "max": 5                //  INT type     : This is the maximum price it can be. (<a href="#Contributors">Why isnt there 1 price</a>)
 },
-```
+
 // Example preset item
 ```json
 {

@@ -18,6 +18,8 @@ rob, and much more there is also a leveling system all at your controll<br></spa
   <a href="#Update">Update</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Features">Features</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Screenshots">Screenshots</a>
 </p>
 
 ## Update
@@ -84,6 +86,9 @@ it will test if its been 24 hours since the last call, if so it will make a rand
       "max": 7
 }
 ```
+
+##Screenshots
+<img src="https://i.imgur.com/hsnFLL8.png" alt="Shop System" />
 
 ## Contributors
 * [ZenoEchozZ](https://github.com/NotReeceHarris) 

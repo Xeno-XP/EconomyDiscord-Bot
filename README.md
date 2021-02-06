@@ -64,17 +64,17 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 ```
 ## Setting up the bot
 
-<strong>-</strong> First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> 
-<strong>-</strong> create a <strong>NEW APPLICATION</strong> and give it a creative name.
-<img src="https://i.imgur.com/ssAeYnC.png">
-<strong>-</strong> Go to the "Bot" tab and click on "add bot"
-<img src="https://i.imgur.com/IRgdtiR.png"> <img src="https://i.imgur.com/MqqrVo3.png">
-<strong>-</strong> Scroll down to "Privileged Gateway Intents" and slide "PRESENCE INTENT" and "SERVER MEMBERS INTENT" on!
-<img src="https://i.imgur.com/Uj3f137.png">
-<strong>-</strong> Then go back the the tab section and go to "Oauh2" select "bot" then scroll down to "BOT PERMISSIONS" and select "administrator"
-<strong>-</strong> Click on "copy" and paste the url into your browser
-<img src="https://i.imgur.com/bbDwpPD.png">
-<strong>-</strong> Select your server and click invite
+<strong>-</strong> First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> <br>
+<strong>-</strong> create a <strong>NEW APPLICATION</strong> and give it a creative name.<br>
+<img src="https://i.imgur.com/ssAeYnC.png"><br>
+<strong>-</strong> Go to the "Bot" tab and click on "add bot"<br>
+<img src="https://i.imgur.com/IRgdtiR.png"> <img src="https://i.imgur.com/MqqrVo3.png"><br>
+<strong>-</strong> Scroll down to "Privileged Gateway Intents" and slide "PRESENCE INTENT" and "SERVER MEMBERS INTENT" on!<br>
+<img src="https://i.imgur.com/Uj3f137.png"><br>
+<strong>-</strong> Then go back the the tab section and go to "Oauh2" select "bot" then scroll down to "BOT PERMISSIONS" and select "administrator"<br>
+<strong>-</strong> Click on "copy" and paste the url into your browser<br>
+<img src="https://i.imgur.com/bbDwpPD.png"><br>
+<strong>-</strong> Select your server and click invite<br>
 
 
 ## How to add items

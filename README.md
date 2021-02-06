@@ -53,7 +53,17 @@ THIS PROJECT IS IN DEVELOPMENT
 ```
 ## Setting up the bot
 First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> 
-* create a <strong>NEW APPLICATION</strong> <img src="https://i.imgur.com/ssAeYnC.png">
+* create a <strong>NEW APPLICATION</strong> and give it a creative name.
+<img src="https://i.imgur.com/ssAeYnC.png">
+* Go to the "Bot" tab and click on "add bot"
+<img src="https://i.imgur.com/IRgdtiR.png"> <img src="https://i.imgur.com/MqqrVo3.png">
+* Scroll down to "Privileged Gateway Intents" and slide "PRESENCE INTENT" and "SERVER MEMBERS INTENT" on!
+<img src="https://i.imgur.com/Uj3f137.png">
+* Then go back the the tab section and go to "Oauh2" select "bot" then scroll down to "BOT PERMISSIONS" and select "administrator"
+* Click on "copy" and paste the url into your browser
+<img src="https://i.imgur.com/bbDwpPD.png">
+* Select your server and click invite
+
 
 ## How to add items
 Within "Data\EcoData.json" add or remove the following.

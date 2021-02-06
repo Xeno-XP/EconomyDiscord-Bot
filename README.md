@@ -72,6 +72,8 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 <strong>-</strong> Click on <strong>copy</strong> and paste the url into your browser<br>
 <strong>-</strong> Select your server and click invite<br>
 
+<strong>-</strong> Head back to the bot page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
+
 
 ## How to add items
 Within "Data\EcoData.json" add or remove the following.

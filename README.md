@@ -71,8 +71,9 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 <strong>-</strong> Then go back the the tab section and go to <strong>Oauh2</strong> select <strong>bot</strong> then scroll down to <strong>BOT PERMISSIONS</strong> and select <strong>administrator</strong><br>
 <strong>-</strong> Click on <strong>copy</strong> and paste the url into your browser<br>
 <strong>-</strong> Select your server and click invite<br>
+<strong>-</strong> Head back to the <strong>bot</strong> page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
 
-<strong>-</strong> Head back to the bot page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
+<strong>-</strong> Now clone this repo ``<br>
 
 
 ## How to add items

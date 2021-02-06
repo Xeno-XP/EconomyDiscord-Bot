@@ -28,18 +28,29 @@ THIS PROJECT IS IN DEVELOPMENT
 ```
 
 ## Features
-* Item rarity
-* shop
-* advanced item prices
-* backpack
-* stats
-* money
-* jobs
-* activity counter
-* custome syntax
-* jail system
-* jail time
-
+* Economy Features
+  * Career
+    * Education
+    * Jobs
+    * Maths questions
+  * Currency
+    * Wallet
+    * Bank
+  * Crime system
+    * Rob
+    * Crime heat
+    * Murder
+  * Shop
+    * Items
+    * 24 hour resets
+* Moderation Systems
+  * Warning system
+    * Roleplay Identity (Hidden within the roleplay aspect)
+  * Activity System
+    * Message counter
+  * Message logger
+  
+  
 ## Commands
 ```console
 [SYNTAX]Shop

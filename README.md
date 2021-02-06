@@ -52,7 +52,8 @@ THIS PROJECT IS IN DEVELOPMENT
 [SYNTAX]Gamble
 ```
 ## Setting up the bot
-First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> 
+
+* First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> 
 * create a <strong>NEW APPLICATION</strong> and give it a creative name.
 <img src="https://i.imgur.com/ssAeYnC.png">
 * Go to the "Bot" tab and click on "add bot"

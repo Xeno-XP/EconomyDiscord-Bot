@@ -51,6 +51,9 @@ THIS PROJECT IS IN DEVELOPMENT
 [SYNTAX]Buy
 [SYNTAX]Gamble
 ```
+## Setting up the bot
+First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> 
+* create a <strong>NEW APPLICATION</strong> <img src="https://i.imgur.com/ssAeYnC.png">
 
 ## How to add items
 Within "Data\EcoData.json" add or remove the following.

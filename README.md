@@ -73,7 +73,14 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 <strong>-</strong> Select your server and click invite<br>
 <strong>-</strong> Head back to the <strong>bot</strong> page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
 
-<strong>-</strong> Now clone this repo ``<br>
+<strong>-</strong> Now clone this repo `git clone https://github.com/NotReeceHarris/EconomyDiscord-Bot.git`<br>
+<strong>-</strong> Unzip the folder and head to "Data/BotData" open this file.<br>
+<strong>-</strong> Copy your token into the "Token" atribute<br>
+```json
+{
+    "Token": "(YourTokenHere)"
+}
+```
 
 
 ## How to add items

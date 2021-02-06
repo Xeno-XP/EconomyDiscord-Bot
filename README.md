@@ -64,18 +64,18 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 ```
 ## Setting up the bot
 
-1 First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> <br>
-2 create a <strong>NEW APPLICATION</strong> and give it a creative name.<br>
-3 Go to the <strong>Bot</strong> tab and click on <strong>add bot</strong><br>
-4 Scroll down to <strong>Privileged Gateway Intents</strong> and slide <strong>PRESENCE INTENT</strong> and <strong>SERVER MEMBERS INTENT</strong> on!<br>
-5 Then go back the the tab section and go to <strong>Oauh2</strong> select <strong>bot</strong> then scroll down to <strong>BOT PERMISSIONS</strong> and select <strong>administrator</strong><br>
-6 Click on <strong>copy</strong> and paste the url into your browser<br>
-7 Select your server and click invite<br>
-8 Head back to the <strong>bot</strong> page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
+1   First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> <br>
+2   create a <strong>NEW APPLICATION</strong> and give it a creative name.<br>
+3   Go to the <strong>Bot</strong> tab and click on <strong>add bot</strong><br>
+4   Scroll down to <strong>Privileged Gateway Intents</strong> and slide <strong>PRESENCE INTENT</strong> and <strong>SERVER MEMBERS INTENT</strong> on!<br>
+5   Then go back the the tab section and go to <strong>Oauh2</strong> select <strong>bot</strong> then scroll down to <strong>BOT PERMISSIONS</strong> and select <strong>administrator</strong><br>
+6   Click on <strong>copy</strong> and paste the url into your browser<br>
+7   Select your server and click invite<br>
+8   Head back to the <strong>bot</strong> page and click <strong>copy</strong> under the Click to <strong>Reveal Token</strong><br>
 
-9 Now clone this repo `git clone https://github.com/NotReeceHarris/EconomyDiscord-Bot.git`<br>
-10 Unzip the folder and head to "Data/BotData" open this file.<br>
-11 Copy your token into the "Token" atribute<br>
+9   Now clone this repo `git clone https://github.com/NotReeceHarris/EconomyDiscord-Bot.git`<br>
+10  Unzip the folder and head to "Data/BotData" open this file.<br>
+11  Copy your token into the "Token" atribute<br>
 ```json
 {
     "Token": "(YourTokenHere)"

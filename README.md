@@ -66,14 +66,10 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 
 <strong>-</strong> First head over to <a href="https://discord.com/developers/applications">discord's developer page</a> <br>
 <strong>-</strong> create a <strong>NEW APPLICATION</strong> and give it a creative name.<br>
-<img src="https://i.imgur.com/ssAeYnC.png"><br>
 <strong>-</strong> Go to the <strong>Bot</strong> tab and click on <strong>add bot</strong><br>
-<img src="https://i.imgur.com/IRgdtiR.png"> <img src="https://i.imgur.com/MqqrVo3.png"><br>
 <strong>-</strong> Scroll down to <strong>Privileged Gateway Intents</strong> and slide <strong>PRESENCE INTENT</strong> and <strong>SERVER MEMBERS INTENT</strong> on!<br>
-<img src="https://i.imgur.com/Uj3f137.png"><br>
 <strong>-</strong> Then go back the the tab section and go to <strong>Oauh2</strong> select <strong>bot</strong> then scroll down to <strong>BOT PERMISSIONS</strong> and select <strong>administrator</strong><br>
 <strong>-</strong> Click on <strong>copy</strong> and paste the url into your browser<br>
-<img src="https://i.imgur.com/bbDwpPD.png"><br>
 <strong>-</strong> Select your server and click invite<br>
 
 

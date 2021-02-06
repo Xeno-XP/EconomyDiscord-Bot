@@ -1,0 +1,55 @@
+[
+  {
+    "ID": 421717515614289950,
+    "Warnings": 0,
+    "Wallet": 0,
+    "Bank": 0,
+    "WantedLevel": 0,
+    "JailTime": 0,
+    "Messages": 69,
+    "Xp": 109,
+    "Job": null,
+    "EducationLvl": 1,
+    "EducationMarks": 0,
+    "EducationCooldown": 1612632076,
+    "Items": [
+      {
+        "name": ":keyboard: Keyboard",
+        "genre": "Electronic",
+        "stock": 10,
+        "price": 119,
+        "rarity": 0.48
+      },
+      {
+        "name": ":apple: Apple",
+        "genre": "Food",
+        "stock": 10,
+        "price": 1,
+        "rarity": 0.2
+      },
+      {
+        "name": ":ice_skate: Ice Skate",
+        "genre": "Leisure",
+        "stock": 10,
+        "price": 86,
+        "rarity": 0.86
+      }
+    ],
+    "Crimes": []
+  },
+  {
+    "ID": 389380808366096395,
+    "Wallet": 0,
+    "Bank": 0,
+    "WantedLevel": 0,
+    "JailTime": 0,
+    "Messages": 1,
+    "Xp": 2,
+    "Job": null,
+    "EducationLvl": 0,
+    "EducationMarks": 1,
+    "EducationCooldown": 1612631974,
+    "Items": [],
+    "Crimes": []
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "DailyShop": [
+    {
+      "name": ":popcorn: Popcorn",
+      "genre": "Food",
+      "stock": 10,
+      "price": 8,
+      "rarity": 0.53
+    },
+    {
+      "name": ":beer: Beer",
+      "genre": "Food",
+      "stock": 10,
+      "price": 3,
+      "rarity": 0.33
+    },
+    {
+      "name": ":pancakes: Pancake",
+      "genre": "Food",
+      "stock": 10,
+      "price": 10,
+      "rarity": 0.59
+    },
+    {
+      "name": ":pancakes: Pancake",
+      "genre": "Food",
+      "stock": 10,
+      "price": 17,
+      "rarity": 1.0
+    },
+    {
+      "name": ":boomerang: Boomerang",
+      "genre": "Leisure",
+      "stock": 10,
+      "price": 37,
+      "rarity": 0.74
+    },
+    {
+      "name": ":tennis: Tennis ball",
+      "genre": "Leisure",
+      "stock": 10,
+      "price": 6,
+      "rarity": 0.6
+    },
+    {
+      "name": ":poultry_leg: Chicken",
+      "genre": "Food",
+      "stock": 10,
+      "price": 15,
+      "rarity": 1.0
+    },
+    {
+      "name": ":tennis: Tennis ball",
+      "genre": "Leisure",
+      "stock": 10,
+      "price": 5,
+      "rarity": 0.5
+    },
+    {
+      "name": ":apple: Apple",
+      "genre": "Food",
+      "stock": 10,
+      "price": 2,
+      "rarity": 0.4
+    }
+  ],
+  "DailyJobs": [],
+  "TempLearnId": [],
+  "TempLearn": [],
+  "DailyShopTime": 1612556022
+}

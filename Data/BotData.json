@@ -1,0 +1,12 @@
+{
+    "Token": "PutYourTokenHere",
+    "Status": "CHANGE THIS",
+    "Syntax": "!",
+    "Symbol": "$",
+    "InventorySize": 15,
+    "ShopSize": 9,
+    "XpPerMsg": 2,
+    "XpPerLvl": 100,
+    "EducationMarkTillLvl": 3,
+    "EmbedColor": "fc0202"
+}

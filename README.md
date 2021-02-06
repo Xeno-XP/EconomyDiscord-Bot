@@ -88,7 +88,7 @@ it will test if its been 24 hours since the last call, if so it will make a rand
 ```
 
 ## Screenshots
-<img src="https://i.imgur.com/hsnFLL8.png" alt="Shop System" /><img src="https://i.imgur.com/sP3LFPd.png" alt="Backpack System" /><img src="https://i.imgur.com/d5kjBUf.png" alt="Stats" />
+<img src="https://i.imgur.com/S10sKeX.png" alt="Lol this didnt load refresh the page" />
 
 ## Contributors
 * [ZenoEchozZ](https://github.com/NotReeceHarris) 

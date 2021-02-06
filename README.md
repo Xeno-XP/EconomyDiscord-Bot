@@ -71,8 +71,8 @@ THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE
 <img src="https://i.imgur.com/IRgdtiR.png"> <img src="https://i.imgur.com/MqqrVo3.png"><br>
 <strong>-</strong> Scroll down to <strong>Privileged Gateway Intents</strong> and slide <strong>PRESENCE INTENT</strong> and <strong>SERVER MEMBERS INTENT</strong> on!<br>
 <img src="https://i.imgur.com/Uj3f137.png"><br>
-<strong>-</strong> Then go back the the tab section and go to "Oauh2" select "bot" then scroll down to "BOT PERMISSIONS" and select "administrator"<br>
-<strong>-</strong> Click on "copy" and paste the url into your browser<br>
+<strong>-</strong> Then go back the the tab section and go to <strong>Oauh2</strong> select <strong>bot</strong> then scroll down to <strong>BOT PERMISSIONS</strong> and select <strong>administrator</strong><br>
+<strong>-</strong> Click on <strong>copy</strong> and paste the url into your browser<br>
 <img src="https://i.imgur.com/bbDwpPD.png"><br>
 <strong>-</strong> Select your server and click invite<br>
 

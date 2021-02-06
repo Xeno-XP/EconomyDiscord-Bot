@@ -87,6 +87,14 @@ it will test if its been 24 hours since the last call, if so it will make a rand
 }
 ```
 
+## Custom Embed color
+Within "Data/BotData.json" there is a attribute called "EmbedColor" change the value to a hex color code example "fc0202" = Red
+```json
+{
+  "EmbedColor": "fc0202"
+}
+```
+
 ## Screenshots
 <img src="https://i.imgur.com/lOG2vOe.png" alt="Lol this didnt load refresh the page" />
 

@@ -3,7 +3,7 @@
 
   <img src="https://i.imgur.com/0Eqx8wH.png" alt="EconomyDiscord Bot" />
 
-  <br>
+  <br> 
   <br>
   <span>Advanced economy system for discord servers, shops, jobs<br>
 rob, and much more there is also a leveling system all at your controll<br></span>
